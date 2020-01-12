@@ -1,7 +1,5 @@
 # CTRating
 
-# CTRating
-
 [![Platform](http://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)[![](http://img.shields.io/badge/language-Swift-brightgreen.svg?color=orange)](https://developer.apple.com/swift)![](https://img.shields.io/github/tag/stewartlynch/CTRating?style=flat)![](https://img.shields.io/github/last-commit/StewartLynch/CTRating)
 
 ### What is this?
@@ -18,7 +16,7 @@ This SwiftPackage was developed to demonstrate how to create a Swift package and
 
 The full turorial is available along with the starter project at
 
-// Video link here.
+https://www.youtube.com/watch?v=al2O8uCFD4E
 
 ### Requirements
 
